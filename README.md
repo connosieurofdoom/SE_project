@@ -8,7 +8,7 @@ Please run the code in the following order:
 
 1. NER.ipynb ->         \
     1.1. NER_sentence.ipynb     \
-    1.2. NER_words.ipynb        \
+    1.2. NER_words.ipynb        
 2. se-qrate.ipynb
 3. XGBoost
 
